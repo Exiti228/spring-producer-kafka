@@ -2,7 +2,7 @@
 * `docker compose up` для запуска Kafka.
 ## API
 ```http
-POST {URL}:8081/metrics
+POST http://URL:8081/metrics
 ```
 ## Формат запроса
 ```JSON
